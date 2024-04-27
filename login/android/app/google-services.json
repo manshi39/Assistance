@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412871467998",
+    "project_id": "personal-assistance-f1460",
+    "storage_bucket": "personal-assistance-f1460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412871467998:android:07d7c4d974dcfb08dc734f",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7mDSYysEtj5T0tGsXIjtATdEEeUzaMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
